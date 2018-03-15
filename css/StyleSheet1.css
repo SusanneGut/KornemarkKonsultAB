@@ -1,3 +1,9 @@
 ﻿body
 {
 }
+.navbar-brand{
+    font-size:30px;
+}
+.nav-link{
+    padding:4px;
+}
