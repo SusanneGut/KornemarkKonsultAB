@@ -6,3 +6,8 @@
 .nav-link {
     padding: 4px;
 }
+.card-img-top{
+    border-radius:50%;
+    width:50%;
+    margin-left:25%;
+}
