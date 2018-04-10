@@ -1,6 +1,0 @@
-# Ignorera följande kataloger
-node_modules/
-
-
-# Ignorera följande filer
-TestIgnore.txt
