@@ -1,6 +1,6 @@
-﻿body
-{
-    padding-top:80px;
+﻿body {
+    padding-top: 80px;
+    font-family: sans-serif;
 }
 
 .nav-link {
@@ -10,4 +10,9 @@
     border-radius:50%;
     width:50%;
     margin-left:25%;
+}
+.logga {
+    color: #fff;
+    font-size: 35px;
+    font-family: 'Sabon MT Std';
 }
